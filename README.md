@@ -7,7 +7,7 @@ After Registring all our Services in Eureka Service Registry we are injecting ou
 We have Developed two micro services 1) Product service and 2) Order Service and we are calling our product service from order service because product service has dependency on order service. Each product has its order Id and order details associated with each order.
 We are also using Hystrix to monitor our micro services Health History.
 We have used Fall back methods and circutbreaker to notify user about our microservice health status and notify user when any service is down.
-
+https://github.com/sivaganeshbathula70/springboot-microservices-orderproduct/assets/60910411/df12f173-f6ae-424c-a1f7-294597fcb3ee
 
 
 

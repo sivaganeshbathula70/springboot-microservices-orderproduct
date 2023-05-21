@@ -15,6 +15,10 @@ We have used Fall back methods and circutbreaker to notify user about our micros
  
  **************************************************** Service - Registry****************************************************************
 
+![Screenshot (59)](https://github.com/sivaganeshbathula70/springboot-microservices-orderproduct/assets/60910411/e9eb36fc-29dc-427e-9bfb-4d6685389470)
+we are calling our services from Api gateway
+
+************************************************************** API- GateWay *******************************************************************
 
 
 

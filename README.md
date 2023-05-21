@@ -21,6 +21,7 @@ we are calling our services from Api gateway
 ************************************************************** API- GateWay *******************************************************************
 ![Screenshot (64)](https://github.com/sivaganeshbathula70/springboot-microservices-orderproduct/assets/60910411/3c57494a-7fa4-4781-bcf6-b1aef3932321)
 When our service is down circut breaker call Fall back method
+
 ********************************************************** Circut Breaker********************************************************************
 
 

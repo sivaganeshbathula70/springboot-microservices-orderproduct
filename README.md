@@ -19,6 +19,9 @@ We have used Fall back methods and circutbreaker to notify user about our micros
 we are calling our services from Api gateway
 
 ************************************************************** API- GateWay *******************************************************************
+![Screenshot (57)](https://github.com/sivaganeshbathula70/springboot-microservices-orderproduct/assets/60910411/aea16c4f-f174-4f5d-8f59-a4de63538f7f)
+When our service is down circut breaker call Fall back method
+********************************************************** Circut Breaker********************************************************************
 
 
 
